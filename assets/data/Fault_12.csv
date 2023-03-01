@@ -1,0 +1,202 @@
+Fault_Num,Fault_Name
+0,System Healthy
+1,Emergency Stop Activated..!
+2,Main Line Air Pressure Health Fault..!
+3,Driving Safety Guard Fault..!
+4,RH Safety Guard Open Fault..!
+5,LH Safety Guard Open Fault..!
+6,Spare_6
+7,Spare_7
+8,Spare_8
+9,Spare_9
+10,GB-1 Lubrication Motor Health Fault..!
+11,GB-1 Lubrication Oil Flow Fault..!
+12,GB-1 Lubrication Oil Clog Fault..!
+13,GB-2 Lubrication Motor Health Fault..!
+14,GB-2 Lubrication Oil Flow Fault..!
+15,GB-2 Lubrication Oil Clog Fault..!
+16,GB-1 Oil Cooler Fan Health Fault..!
+17,GB-2 Oil Cooler Fan Health Fault..!
+18,UUT Cooling Blower Health Fautlt..!
+19,Spare_19
+20,Vibration 1 Fault Limit..!
+21,Vibration 2 Fault Limit..!
+22,Spare_22
+23,Spare_23
+24,Spare_24
+25,Spare_25
+26,Spare_26
+27,Spare_27
+28,Spare_28
+29,Spare_29
+30,Spare_30
+31,Spare_31
+32,Spare_32
+33,Spare_33
+34,Spare_34
+35,Spare_35
+36,Spare_36
+37,Spare_37
+38,Spare_38
+39,Spare_39
+40,Spare_40
+41,Spare_41
+42,Spare_42
+43,Spare_43
+44,Spare_44
+45,Spare_45
+46,Spare_46
+47,Spare_47
+48,Spare_48
+49,Spare_49
+50,Pc_Plc_Communication Fault..!
+51,Auto_Man_Changeover_Fault..!
+52,Spare_52
+53,Spare_53
+54,Spare_54
+55,Spare_55
+56,Spare_56
+57,Spare_57
+58,Spare_58
+59,Spare_59
+60,Gear Ratio Validation Fault..!
+61,Spare_61
+62,Spare_62
+63,Spare_63
+64,Spare_64
+65,Spare_65
+66,Spare_66
+67,Spare_67
+68,Spare_68
+69,Spare_69
+70,Input Drive Blower Health Fault..!
+71,LH Drive Blower Health Fault..!
+72,Input Drive Health Fault..!
+73,LH Drive Health Fault..!
+74,Rectifier Health Fault..!
+75,Spare
+76,RH Drive Blower Health Fault..!
+77,Spare
+78,RH Drive Health Fault..!
+79,Spare_79
+80,Spare_80
+81,Spare_81
+82,Spare_82
+83,Spare_83
+84,Spare_84
+85,Spare_85
+86,Spare_86
+87,Spare_87
+88,Spare_88
+89,Spare_89
+90,Belt Removed Fault..!
+91,Set and Actual Speed Mismatch Fault..!
+92,Spare_92
+93,Spare_93
+94,Spare_94
+95,Spare_95
+96,Spare_96
+97,Spare_97
+98,Spare_98
+99,Spare_99
+100,Driving Torque Minimum Range Fault..!
+101,Driving Torque Maximum Range Fault..!
+102,LH Torque Minimum Range Fault..!
+103,LH Torque Maximum Range Fault..!
+104,RH Torque/GB-1 Lub Oil Temp Minimum Range Fault..!
+105,RH Torque/GB-1 Lub Oil Temp Maximum Range Fault..!
+106,GB-2 Lub Oil Temp/UUT Temp Minimum Range Fault..!
+107,GB-2 Lub Oil Temp/UUT Temp Maximum Range Fault..!
+108,Spare_1_Minimum_Fault
+109,Spare_1_Maximum_Fault
+110,Spare_1_Minimum_Fault
+111,Spare_1_Maximum_Fault
+112,Input Drive Status Word Minimum Range Fault..!
+113,Input Drive Status Word Maximum Range Fault..!
+114,LH Drive Status Word Minimum Range Fault..!
+115,LH Drive Status Word Maximum Range Fault..!
+116,RH Drive Status Word Minimum Range Fault..!
+117,RH Drive Status Word Maximum Range Fault..!
+118,Drive Status Word Spare 4 Minimum Range Fault..!
+119,Drive Status Word Spare 4 Maximum Range Fault..!
+120,Drive Status Word Spare 5 Minimum Range Fault..!
+121,Drive Status Word Spare 5 Maximum Range Fault..!
+122,Drive Status Word Spare 6 Minimum Range Fault..!
+123,Drive Status Word Spare 6 Maximum Range Fault..!
+124,Input Drive Actual Speed Minimum Range Fault..!
+125,Input Drive Actual Speed Maximum Range Fault..!
+126,Input Drive Actual Torque Minimum Range Fault..!
+127,Input Drive Actual Torque Maximum Range Fault..!
+128,LH Drive Actual Speed Minimum Range Fault..!
+129,LH Drive Actual Speed Maximum Range Fault..!
+130,LH Drive Actual Torque Minimum Range Fault..!
+131,LH Drive Actual Torque Maximum Range Fault..!
+132,RH Drive Actual Speed Minimum Range Fault..!
+133,RH Drive Actual Speed Maximum Range Fault..!
+134,RH Drive Actual Torque Minimum Range Fault..!
+135,RH Drive Actual Torque Maximum Range Fault..!
+136,Input Drive Fault Code Minimum Range Fault..!
+137,Input Drive Fault Code Maximum Range Fault..!
+138,LH Drive Fault Code Minimum Range Fault..!
+139,LH Drive Fault Code Maximum Range Fault..!
+140,RH Drive Fault Code Minimum Range Fault..!
+141,RH Drive Fault Code Maximum Range Fault..!
+142,Input Drive DC Voltage Minimum Range Fault..!
+143,Input Drive DC Voltage Maximum Range Fault..!
+144,LH Drive DC Voltage Minimum Range Fault..!
+145,LH Drive DC Voltage Maximum Range Fault..!
+146,RH Drive DC Voltage Minimum Range Fault..!
+147,RH Drive DC Voltage Maximum Range Fault..!
+148,Drive Status Word Spare 19 Minimum Range Fault..!
+149,Drive Status Word Spare 19 Maximum Range Fault..!
+150,Drive Status Word Spare 20 Minimum Range Fault..!
+151,Drive Status Word Spare 20 Maximum Range Fault..!
+152,Drive Status Word Spare 21 Minimum Range Fault..!
+153,Drive Status Word Spare 21 Maximum Range Fault..!
+154,Drive Status Word Spare 22 Minimum Range Fault..!
+155,Drive Status Word Spare 22 Maximum Range Fault..!
+156,Drive Status Word Spare 23 Minimum Range Fault..!
+157,Drive Status Word Spare 23 Maximum Range Fault..!
+158,Drive Status Word Spare 24 Minimum Range Fault..!
+159,Drive Status Word Spare 24 Maximum Range Fault..!
+160,Drive Status Word Spare 25 Minimum Range Fault..!
+161,Drive Status Word Spare 25 Maximum Range Fault..!
+162,Drive Status Word Spare 26 Minimum Range Fault..!
+163,Drive Status Word Spare 26 Maximum Range Fault..!
+164,Drive Status Word Spare 27 Minimum Range Fault..!
+165,Drive Status Word Spare 27 Maximum Range Fault..!
+166,Drive Status Word Spare 28 Minimum Range Fault..!
+167,Drive Status Word Spare 28 Maximum Range Fault..!
+168,Drive Status Word Spare 29 Minimum Range Fault..!
+169,Drive Status Word Spare 29 Maximum Range Fault..!
+170,Drive Status Word Spare 30 Minimum Range Fault..!
+171,Drive Status Word Spare 30 Maximum Range Fault..!
+172,Drive Status Word Spare 31 Minimum Range Fault..!
+173,Drive Status Word Spare 31 Maximum Range Fault..!
+174,Drive Status Word Spare 32 Minimum Range Fault..!
+175,Drive Status Word Spare 32 Maximum Range Fault..!
+176,Spare_176
+177,Spare_177
+178,Spare_178
+179,Spare_179
+180,Spare_180
+181,Shift 2 Forward Feeback Fault..!
+182,Shift 2 Reverse Feedback Fault..!
+183,Shift2 Feebacks are Malfunction Fault..!
+184,Spare_184
+185,Spare_185
+186,Gate2 Forward Feedback Fault..!
+187,Gate2 Reverse Feedback Fault..!
+188,Gate2 Feedbacks are Malfunctioning Fault..!
+189,Spare_189
+190,Spare_190
+191,Gate1 Forward Feedback Fault..!
+192,Gate1 Reverse Feedback Fault..!
+193,Gate1 Feedbacks are Malfunctioning Fault..!
+194,Spare_194
+195,Spare_195
+196,Shift 1 Forward Feeback Fault..!
+197,Shift 1 Reverse Feedback Fault..!
+198,Shift 1 Feebacks are Malfunction Fault..!
+199,Spare_199
+200,Spare_200

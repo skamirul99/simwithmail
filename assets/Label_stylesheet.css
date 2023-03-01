@@ -1,0 +1,484 @@
+.Header{
+         position: absolute;
+         top: 0px;
+         left: 260px;
+         height: 47px;
+         width: 1318px;
+         text-align: center;
+         font-family: Arial;
+         font-size: 16px;
+         font-weight: bold;
+         color: yellow
+}
+.Machine_status1{
+            position: absolute;
+            top: 140px;
+            left: 35px;
+            width: 1810px;
+            height: 650px;
+            padding: 15px;
+            opacity: 0.2;
+            background-color: white;
+
+            box-shadow: 1px 1px 4px 6px lightgreen;
+}
+
+.Fault{
+         position: absolute;
+         top: 70px;
+         left: 240px;
+         height: 47px;
+         width: 1338px;
+         text-align: center;
+         background-color: 6edf8100;
+         font-family: Arial;
+         font-size: 35px;
+         font-weight: bold;
+         color: #46097c
+}
+.Header1{
+         position: absolute;
+         top: 0px;
+         left: 610px;
+         font-family: Arial;
+         font-size: 16px;
+         font-weight: bold;
+         color: #d77ffb
+}
+.Marquee{
+            font-size: 25px;
+            color: orange;
+            font-family: verdana;
+            font-weight: bold;
+            height: 59px;
+            width: 250px;
+            text-align: center;
+            position: absolute
+}
+.Machine_status{
+                 font-size: 40px;
+                 height: 50px;
+                 width: 1398px;
+                 text-align: center;
+                 background-color: #6edf812e;
+                 position: absolute;
+                 top: 60px;
+                 left: 252px
+                 }
+
+.Machine{
+          position: absolute;
+          top: 50px;
+          left: 175px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: aqua
+}
+.Status{
+          position: absolute;
+          top: 53pt;
+          left: 177px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: aqua
+}
+.ip_Speed{
+          position: absolute;
+          top: 125px;
+          left: 40px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.lh_Speed{
+          position: absolute;
+          top: 125px;
+          left: 342px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.rh_Speed{
+          position: absolute;
+          top: 125px;
+          left: 628px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+
+.G_Ratio{
+          position: absolute;
+          top: 125px;
+          left:898px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.R_Step{
+          position: absolute;
+          top: 125px;
+          left:1175px ;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Trial_No{
+          position: absolute;
+          top: 125px;
+          left:1482px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Oil_Temp{
+          position: absolute;
+          top: 125px;
+          left: 1710px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Ip_Trq{
+          position: absolute;
+          top: 300px;
+          left: 35px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Lh_Trq{
+          position: absolute;
+          top: 300px;
+          left: 342px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Rh_Trq{
+          position: absolute;
+          top: 300px;
+          left: 622px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.R_G_Id{
+          position: absolute;
+          top: 300px;
+          left:910px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.P_Stp{
+          position: absolute;
+          top: 300px;
+          left:1212px ;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.B_Status{
+          position: absolute;
+          top: 300px;
+          left:1452px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Serial_No{
+          position: absolute;
+          top: 300px;
+          left: 1702px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Ip_Pwr{
+          position: absolute;
+          top: 475px;
+          left: 40px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Lh_Pwr{
+          position: absolute;
+          top: 475px;
+          left:342px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Rh_Pwr{
+          position: absolute;
+          top: 475px;
+          left: 628px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.T_G_Id{
+          position: absolute;
+          top: 475px;
+          left: 910px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Seq_On{
+          position: absolute;
+          top: 475px;
+          left: 1212px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.M_Of_Bench{
+          position: absolute;
+          top: 475px;
+          left: 1448px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.Fault_No{
+          position: absolute;
+          top: 475px;
+          left: 1710px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.I_rpm{
+          position: absolute;
+          top: 205px;
+          left: 200px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.L_rpm{
+          position: absolute;
+          top: 205px;
+          left: 490px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.R_rpm{
+          position: absolute;
+          top: 205px;
+          left: 775px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.I_nm{
+          position: absolute;
+          top: 385px;
+          left: 200px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.L_nm{
+          position: absolute;
+          top: 385px;
+          left: 490px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.R_nm{
+          position: absolute;
+          top: 385px;
+          left: 775px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.Centigrade{
+          position: absolute;
+          top: 205px;
+          left: 1830px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: white
+}
+.Label33{
+          position: absolute;
+          top: 430px;
+          left: 1365px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.I_kw{
+          position: absolute;
+          top: 565px;
+          left: 200px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.L_kw{
+          position: absolute;
+          top: 565px;
+          left: 490px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.R_kw{
+          position: absolute;
+          top: 565px;
+          left: 775px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.S_I_spd{
+          position: absolute;
+          top: 650px;
+          left: 43px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+         color: aqua
+}
+.S_I_trq{
+          position: absolute;
+          top: 650px;
+          left: 320px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.S_L_spd{
+          position: absolute;
+          top: 650px;
+          left: 612px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.S_L_trq{
+          position: absolute;
+          top: 650px;
+          left: 890px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.S_R_spd{
+          position: absolute;
+          top: 650px;
+          left: 1185px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.S_R_trq{
+          position: absolute;
+          top: 650px;
+          left: 1460px;
+          font-family: Arial;
+          font-size: 25px;
+          font-weight: bold;
+          color: aqua
+}
+.S_I_rpm{
+          position: absolute;
+          top: 738px;
+          left: 205px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+ }
+ .S_I_nm{
+          position: absolute;
+          top: 738px;
+          left: 490px;
+          font-family: Arial;
+          font-size: 16px;
+          font-weight: bold;
+          color: white
+}
+.S_L_rpm{
+          position: absolute;
+          top: 738px;
+          left: 775px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: white
+}
+.S_L_nm{
+          position: absolute;
+          top: 738px;
+          left: 1070px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: white
+}
+.S_R_rpm{
+          position: absolute;
+          top: 738px;
+          left: 1340px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: white
+}
+.S_R_nm{
+          position: absolute;
+          top: 738px;
+          left: 1640px;
+          font-family: Arial;
+          font-size: 15px;
+          font-weight: bold;
+          color: white
+}
+
