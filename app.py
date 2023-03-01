@@ -1408,4 +1408,4 @@ def display_page(pathname):
 
 
 if __name__ == '__main__':
-    dash_app.run_server(host='127.0.0.11', port='5000', debug=False)
+    dash_app.run_server(debug=False)
