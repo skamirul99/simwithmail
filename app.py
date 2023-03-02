@@ -648,7 +648,7 @@ dashboard = html.Div([
 def update(timer):
     return [ip_spd, LH_Speed, RH_Speed, Gear_Ratio, Running_Step, Trial_No, oil_temp, IP_Torque, LH_Torque, RH_Torque,
             Running_Gear_Id, Present_Step, Bench_Status, Serial_No, ip_pwr, lh_pwr, rh_pwr,
-            Target_Gear_Id, Sequence_On, Mode_Of_Bench, Fault_No, s_spd, s_trq, s_l_spd, s_l_trq, s_r_spd, s_r_trq, Flt_No[Fault_No],
+            Target_Gear_Id, Sequence_On, Mode_Of_Bench, Fault_No, s_spd, s_trq, S_LH_Spd, S_LH_Trq, s_r_spd, s_r_trq, Flt_No[Fault_No],
             True if Bench_Status == 0 else False, True if Bench_Status == 1 else False,
             True if Bench_Status == 2 else False]
 
