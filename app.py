@@ -19,7 +19,7 @@ from pandas import *
 
 # IoT Protocol with cloud broker, port no like TCP/IP or Websocket, connecting time in ms
 mqttc = mqtt.Client()
-mqttc.connect("broker.emqx.io", 1883, 18060)
+mqttc.connect("broker.hivemq.com", 1883, 18060)
 # CSV Read
 global Flt_No
 data = read_csv('assets/data/Fault_12.csv')
